@@ -1,7 +1,5 @@
 <p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
 
-![AI-Resume-enhancer](https://socialify.git.ci/Tausif001/AI-Resume-enhancer/image?description=1&descriptionEditable=5th%20Sem%20Final%20Year%20Project%20at%20Kirti%20M%20Doongursee%20College%20(2022%20-%2023)&font=Raleway&language=1&pattern=Plus&theme=Light)
-
 <div align="center">
   <h1>🌴 AI RESUME enhancer 🌴</h1>
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
@@ -19,9 +17,6 @@
   
   <!--links-->
   <h4>
-    <a href="#preview-">View Demo</a>
-    <span> · </span>
-    <a href="#setup--installation-">Installation</a>
     <span> · </span>
     <a href="mailto:tausifalam2811@gmail.com?subject=I%20Want%20The%20Project%20Report%20of%20AI-RESUME-enhancer%20(2022%20 %2023)&body=Here%20Are%20My%20Details%20%F0%9F%98%89%0D%0A%0D%0AOrganization%2FCollege%20Name%3A%20%0D%0A%0D%0AFull%20Name%3A%20%0D%0A%0D%0AGitHub%20Profile%20%3A%20%0D%0A%0D%0AFrom%20where%20did%20you%20get%20to%20know%20about%20this%20project%3A%0D%0A%0D%0APurpose%20of%20asking%20project%20report%20(describe)%3A%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfy%20your%20identity%20you%20will%20get%20the%20report%20to%20your%20email.">Project Report</a>
   </h4>
@@ -31,8 +26,8 @@
       <a href="https://github.com/Tausif001">Tausif Alam</a>
      </small>
   </p>
-  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree B.sc CS at 
-    <a href="https://manuu.edu.in/home/">Kirti College</a> during academic year 2022-23
+  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree B.tech CS at 
+    <a href="https://manuu.edu.in/home/">Maulana Azad National Urdu University</a> during academic year 2022-23
   </small>
 </div><br/><br/>
 
