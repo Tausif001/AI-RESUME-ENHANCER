@@ -1,6 +1,3 @@
-# Developed by Tausif, Tauqeer and Raushan    Made with Streamlit
-
-
 ###### Packages Used ######
 import streamlit as st # core package used in this project
 import pandas as pd
@@ -92,7 +89,7 @@ def course_recommender(course_list):
 
 
 # sql connector
-connection = pymysql.connect(host='localhost',user='root',password='tausif@576',db='cv')
+connection = pymysql.connect(host='localhost',user='root',password='use_your_password',db='cv')
 cursor = connection.cursor()
 
 
@@ -654,8 +651,7 @@ def run():
 
         <p align="justify">
             Built with 🤍 by 
-            <a href="https://github.com/Tausif001" style="text-decoration: none; color: grey;">Tausif Alam</a> through 
-            <a href="https://www.linkedin.com/in/mrbriit/" style="text-decoration: none; color: grey;">Afrah Fathima --(Data Scientist)</a>
+            <a href="https://github.com/Tausif001" style="text-decoration: none; color: grey;">Tausif Alam</a> through  
         </p>
 
         ''',unsafe_allow_html=True)  
