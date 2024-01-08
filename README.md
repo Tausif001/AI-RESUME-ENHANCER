@@ -1,7 +1,7 @@
 <p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
 
 <div align="center">
-  <h1>🌴 AI RESUME enhancer 🌴</h1>
+  <h1>🌴 AI RESUME ENHANCER 🌴</h1>
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
   <!-- Badges -->
   <p>
