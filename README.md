@@ -38,7 +38,6 @@
 
 ## About the Project 🥱
 <div align="center">
-    <br/><img src="https://raw.githubusercontent.com/Tausif001/AI-Resume-enhancer/main/screenshots/RESUME.png" alt="screenshot" /><br/><br/>
     <p align="justify"> 
       A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
@@ -179,7 +178,6 @@ python -m spacy download en_core_web_sm
 After installation is finished create a Database ```cv```
 
 And change user credentials inside ```App.py```
-https://github.com/Tausif001/AI-Resume-enhancer/blob/17e1cdb207fef62557dc394f4158bda515e541fd/App/App.py#L95
 
 Go to ```venvapp\Lib\site-packages\pyresparser``` folder
 
@@ -208,7 +206,7 @@ Feel Free to <a href="mailto:tausifalam1128@gmail.com?subject=I%20have%20an%20is
 - After the setup it will do stuff's automatically
 - You just need to upload a resume and see it's magic
 - Try first with my resume uploaded in ``Uploaded_Resumes`` folder
-- Admin userid is ``admin`` and password is ``admin@resume-enhancer``
+- Admin userid is ``admin`` and password is ``admin@123``
 
 <!-- Roadmap -->
 ## Roadmap 🛵
@@ -225,11 +223,11 @@ Pull requests are welcome.
 For major changes, please open an issue first to discuss what you would like to change.
 
 If you want the full report of project
-<a href="mailto:tausifalam1128@gmail.com?subject=I%20Want%20The%20Project%20Report%20of%20AI-RESUME-enhancer%20(2022%20-%2023)&body=Here%20Are%20My%20Details%20%F0%9F%98%89%0D%0A%0D%0AOrganization%2FCollege%20Name%3A%20%0D%0A%0D%0AFull%20Name%3A%20%0D%0A%0D%0AGitHub%20Profile%20%3A%20%0D%0A%0D%0AFrom%20where%20did%20you%20get%20to%20know%20about%20this%20project%3A%0D%0A%0D%0APurpose%20of%20asking%20project%20report%20(describe)%3A%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfy%20your%20identity%20you%20will%20get%20the%20report%20to%20your%20email.">Email Me</a> ``it's FREE``
+<a href="mailto:tausifalam1128@gmail.com?subject=I%20Want%20The%20Project%20Report%20of%20AI-RESUME-enhancer%20(2022%20-%2023)&body=Here%20Are%20My%20Details%20%F0%9F%98%89%0D%0A%0D%0AOrganization%2FCollege%20Name%3A%20%0D%0A%0D%0AFull%20Name%3A%20%0D%0A%0D%0AGitHub%20Profile%20%3A%20%0D%0A%0D%0AFrom%20where%20did%20you%20get%20to%20know%20about%20this%20project%3A%0D%0A%0D%0APurpose%20of%20asking%20project%20report%20(describe)%3A%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfy%20your%20identity%20you%20will%20get%20the%20report%20to%20your%20email.">Email Me</a> ``it's FREE, but you can pay for the tea ☕☕``
 
 ## Acknowledgement 🤗
 
 - <a href="https://www.academia.edu/32543544/Resume_Parser_with_Natural_Language_Processing">Resume Parser with Natural Language Processing</a>
 - <a href="https://github.com/OmkarPathak/pyresparser">pyresparser</a>
 
-### Built with 🤍 AI RESUME enhancer by <a>Tausif Alam</a>
+### Built with 🤍 AI RESUME ENHANCER by <a>Tausif Alam</a>
